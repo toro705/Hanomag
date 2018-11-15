@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"auto",
+				"autoWidth"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"magi",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"para",
+				"paragraph-3"
+			],
+			[
+				"maquinas-usa",
+				"maquinas-usadas__descrip"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"marign",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"ovew",
+				"overflow"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"Sans",
+				"sans-serif"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/ermitadepaja"
+	],
+	"file_history":
+	[
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/includes/forms/ficha.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/includes/header.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/index.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/includes/config/empresa.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/includes/footer.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/sftp-config.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/includes/templates/marcas-slider.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/js/jquery.owl.carousel/owl.carousel.min.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/.htaccess",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/includes/config/db.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/cms/.htaccess",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/includes/config/config.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/cms/core/config/constants.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/images/favicons/manifest.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/cms/core/logs/log-2016-08-26.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/cms/core/config/database.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/cms/core/config/config.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/quienes-somos.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/hanomag/novedades.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/includes/footer.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/includes/header.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/listado.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/includes/templates/banner-envio-2.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/js/jquery.owl.carousel/owl.carousel.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/cms/core/config/user_agents.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/sftp-config.json",
+		"/T/Mis Documentos/Laburos/AESPCA/MAILS/agosto-septiembre/mail +extenso/aespca-agosto-septiembre.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/contacto.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/index.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/css/styles-theme.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/novedades.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/quienes-somos.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/sitio base/includes/header.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/salud.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/consorcios.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/educacion-recreacion.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/hoteleria-gastronomia.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/industria.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/cms/core/config/constants.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/includes/forms/contacto.php",
+		"/C/Users/Alan/Desktop/styles-theme.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/css/exta.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/.htaccess",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/procedimiento.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/includes/config/empresa.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/includes/config/config.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/includes/libs/Minifier.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/includes/config/db.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Consorlimp/css/missing.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/js/modules-detail.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/js/main.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/css/main.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/gracias.html",
+		"/T/Mis Documentos/Laburos/Aipem/Envio mails/Capacitacion Sueldos 08-2016/capacitacionsueldos08-2016.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/sftp-config.json",
+		"/T/Mis Documentos/Laburos/Aipem/Envio mails/cronograma envio 05-09-2016/cronograma-septiembre.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/index.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/js/wow.min.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/sendemail.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/aipemsec/cronograma.html",
+		"/T/Mis Documentos/Laburos/Aipem/Envio mails/proximas capacitaciones 05-09-2016/proximas-05-09-2016.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/aipemsec/index.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/aipem/test",
+		"/C/Users/Alan/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Alan/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/C/Users/Alan/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Alan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Alan/Desktop/bibliografika/test.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 139.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"box-sha",
+			"elementos",
+			".slider",
+			"ficha",
+			"form",
+			"center",
+			"Elementos",
+			"btn",
+			".ficha",
+			"slider-ficha",
+			"slider",
+			"ficha",
+			".carousel",
+			"carousel",
+			"ficha",
+			"media",
+			"item",
+			"items",
+			"accesirios__cont__title",
+			";\n",
+			"Usadas",
+			"#marcas",
+			"marcas",
+			"principal",
+			";\n",
+			"texto",
+			"120px",
+			".scroll .navbar .cabecera__logo img{\n\t\tmax-width: 164px;\n\t}\n",
+			"consorlimp",
+			"conso",
+			"con",
+			"\n.scroll .navbar .nav-principal ul li a:focus,",
+			"pagination",
+			"product-title",
+			"$minified",
+			"false",
+			"\n\t\t  \t  \t\t",
+			"hidd",
+			"320px",
+			"20px",
+			"<?=url('quienes-somos')?>",
+			"quienes",
+			"banner-envio-1",
+			"envio",
+			"envios",
+			";\n",
+			"cabecera__logo",
+			"none",
+			"shortcut",
+			"hvr-wobb",
+			"\">",
+			"novedades",
+			"\n            ",
+			"contacto",
+			"marcas-home",
+			"form",
+			"hoteleria-gastronomia",
+			"seccion",
+			";\n",
+			"status",
+			"url",
+			"shop-icons",
+			"copyr",
+			"synapsis",
+			"synap",
+			"{\n",
+			".shops-icons .col-sm-4:first-child{\n\tmargin-left: 16.66666667%;\n}\n",
+			"2",
+			"{\n",
+			"relative",
+			"cabecera",
+			"\n\t",
+			"cabecera",
+			"image",
+			"slider-principal__imagen",
+			"cabecera",
+			"slider",
+			"login",
+			"experiencia",
+			"objetivo",
+			";\n",
+			"wow",
+			"nav",
+			"aipemsecmo",
+			"nosotros",
+			"right",
+			"id=\"telef",
+			"contacto",
+			"\t\t\t\t\t\t\t\t<div class=\"row  wow fadeInUp\" data-wow-duration=\"1000ms\" data-wow-delay=\"300ms\">\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" id=\"name\" name=\"name\" class=\"form-control\" placeholder=\"Nombre\" required=\"required\">\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"email\" id=\"email\" name=\"email\" class=\"form-control\" placeholder=\"E-mail\" required=\"required\">\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n",
+			"box-service",
+			"transparent",
+			"novedad",
+			"blanco",
+			"footer",
+			"pie",
+			".bg",
+			"box-service-img",
+			".cabecera__logo",
+			"footer",
+			"pie",
+			"\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<i class=\"fa fa-envelope-o\" aria-hidden=\"true\"></i><br>\n\t\t\t\t\t\t\t\t<a class=\"pargraph-2\" href=\"javascript:;\">consultaas@bibliografika.com</a>\n\t\t\t\t\t\t\t</li>\n",
+			"h5",
+			":;\">",
+			"roboto",
+			".novedad a.btn-plus{\n",
+			"\n.",
+			"libre",
+			"blanco"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 265.0
+	},
+	"pinned_build_system": "",
+	"project": "ermitadepaja.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\bibliografika\\bibliografika.sublime-project"
+			],
+			[
+				"aipem",
+				"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\aipem\\aipem.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
